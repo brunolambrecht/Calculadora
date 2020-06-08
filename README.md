@@ -1,2 +1,2 @@
 # Calculadora
- Trabalho academicoem Java - 1º periodo Sistemas de Informação 
+ Trabalho academico em Java - 1º periodo Sistemas de Informação 
